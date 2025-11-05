@@ -17,7 +17,6 @@ body {
 }
 
 .container {
-    margin-top: 2rem;
     background-color: var(--color-card);
     border-radius: 16px;
     padding: 1.3rem 1.5rem;
