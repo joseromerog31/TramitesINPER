@@ -20,7 +20,7 @@ body {
     border-radius: 16px;
     padding: 2rem 1.5rem;
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
-    height: 700PX;
+    min-height: 700PX;
     max-width: 400px;
     width: 90%;
     text-align: center;
@@ -43,7 +43,7 @@ a {
     text-decoration: none;
     background-color: var(--color-accent);
     color: #fff;
-    padding: 12px;
+    padding: 16px 12px;
     margin: 8px 0;
     border-radius: 8px;
     transition: background 0.2s ease;
