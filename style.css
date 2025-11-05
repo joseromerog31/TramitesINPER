@@ -20,7 +20,7 @@ body {
     border-radius: 16px;
     padding: 2rem 1.5rem;
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
-    min-height: 700PX;
+    min-height: 500px;
     max-width: 400px;
     width: 90%;
     text-align: center;
@@ -28,14 +28,14 @@ body {
 
 h1 {
     color: var(--color-text);
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     margin-bottom: 0.5rem;
 }
 
 p {
     color: #555;
     margin-bottom: 1.5rem;
-    font-size: 0.95rem;
+    font-size: 1rem;
 }
 
 a {
@@ -47,7 +47,7 @@ a {
     margin: 8px 0;
     border-radius: 8px;
     transition: background 0.2s ease;
-    font-size: 0.95rem;
+    font-size: 1rem;
 }
 
 a:hover {
