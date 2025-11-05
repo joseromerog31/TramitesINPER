@@ -13,7 +13,8 @@ body {
     justify-content: center;
     align-items: flex-start;
     min-height: 100vh;
-    padding-top: 4rem;
+    margin-top: 2rem;
+    padding-top: 2rem;
 }
 
 .container {
