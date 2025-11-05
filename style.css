@@ -17,9 +17,10 @@ body {
 }
 
 .container {
+    margin-top: 2rem;
     background-color: var(--color-card);
     border-radius: 16px;
-    padding: 2rem 1.5rem;
+    padding: 1.3rem 1.5rem;
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
     max-width: 400px;
     max-height: 80vh;
